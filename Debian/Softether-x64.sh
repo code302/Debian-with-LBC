@@ -1,9 +1,9 @@
 #-------------------------------------------------------
 #Softether Auto Install Script
-#For Debian 7 x64 (i686 will arrive soon)
+#For Debian 8 x64
 #
 #Script Coded by Faishal Akbar
-#https://github.com/mfaishalakbar/SoftetherAutoInstall
+#https://raw.githubusercontent.com/code302/fdfdfdfsf
 #
 #Script Based from tutorial by lincolin.hk
 #
