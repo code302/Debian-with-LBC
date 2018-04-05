@@ -2,8 +2,8 @@
 #Softether Auto Install Script
 #For Debian 8 x64
 #
-#Script Coded by Faishal Akbar
-#https://raw.githubusercontent.com/code302/fdfdfdfsf
+#Script Coded by code302
+#https://raw.githubusercontent.com/code302/Debian-with-LBC
 #
 #Script Based from tutorial by lincolin.hk
 #
@@ -30,7 +30,7 @@ chmod 700 vpncmd
 chmod 700 vpnserver
 #Downloading the Scripts for init.d and set Permission
 cd /root
-wget https://raw.githubusercontent.com/code302/fdfdfdfsf/master/misc/vpnserver-debian.sh --no-check-certificate
+wget https://raw.githubusercontent.com/code302/Debian-with-LBC/master/misc/vpnserver-debian.sh --no-check-certificate
 mv vpnserver-debian.sh /etc/init.d/vpnserver
 cd /etc/init.d
 chmod 755 vpnserver
